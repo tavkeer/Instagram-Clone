@@ -62,7 +62,8 @@ class AddPostController extends GetxController {
           "latest_comment": '',
           "likes_count": '0',
           "posted_at": DateTime.now().toString(),
-          "poster_id": user.uid
+          "poster_id": user.uid,
+          "saved_posts": [],
         },
       );
 
