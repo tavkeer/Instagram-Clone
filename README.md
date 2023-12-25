@@ -20,8 +20,10 @@ This project is an Instagram clone developed with Flutter for the frontend and F
 - **Firebase:** Backend-as-a-Service (BaaS) platform for authentication, cloud storage, and real-time database.
 
 ## Screenshots
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-12-25 at 11 37 51](https://github.com/tavkeer/Instagram-Clone/assets/105163810/79aa2a05-6a58-434c-85a7-40a73ce11a4a)
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-12-25 at 11 37 56](https://github.com/tavkeer/Instagram-Clone/assets/105163810/ffa4f64c-85a2-423d-aa4f-29861e06e74f)
 
-[Add screenshots or GIFs of your app here to showcase its UI and functionality.]
+
 
 ## Setup
 
