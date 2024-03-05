@@ -1,4 +1,4 @@
-# Instagram Clone with Flutter and Firebase.
+# Instagram Clone with Flutter and Firebase
 
 A Flutter and Firebase-based Instagram clone project.
 
